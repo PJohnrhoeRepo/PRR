@@ -1,0 +1,14 @@
+According to King (2019), The first thing we should figure out when making the front-end vs back- end comparison is what each specialty does. It’s not hard because the two specialties couldn’t be more different despite being a part of the same field.
+
+	Front end developers’ bread and butter are HTML, CSS, and JavaScript. HTML is a markup language used to build the website’s skeleton. CSS is a way to tell the browser how everything is supposed to look, styling it. JavaScript is used to add animations, transitions, and functions to on-screen elements.
+
+	The choice between different programming languages comes to preference, the needs of the project in question and your knowledge. There are several popular server-side programming languages, like PHP, JavaScript used in the Node.js run-time environment with the Express framework, Python, Ruby, C#, Java, and others.
+
+	As explained by Wales (2014), Front-end developers are responsible for a website’s user-facing code and the architecture of its immersive user experiences. In order to execute those objectives, front-end devs must be adept at three main languages: HTML, CSS, and Javascript programming. In addition to fluency in these languages, front-end devs need to be familiar with frameworks like Bootstrap, Foundation, Backbone, AngularJS, and EmberJS, which ensure great-looking content no matter the device, and libraries like jQuery and LESS, which package code into a more useful, time-saving form. A lot of front-end developer job listings also call for experience with Ajax, a widely used technique for using Javascript that lets pages dynamically load by downloading server data in the background.
+
+	
+	In order to make the server, application, and database communicate with each other, back-end devs use server-side languages like PHP, Ruby, Python, Java, and .Net to build an application, and tools like MySQL, Oracle, and SQL Server to find, save, or change data and serve it back to the user in front-end code. Job openings for back-end developers often also call for experience with PHP frameworks like Zend, Symfony, and CakePHP; experience with version control software like SVN, CVS, or Git; and experience with Linux as a development and deployment system.
+
+	In addition, Wales said “I’ve always preferred back-end development because I love manipulating data,” said long-time back-end developer JP Toto, who’s currently a software developer for Wildbit. “Recently public and private APIs have become an essential part of trading data between mobile devices, websites, and other connected systems. Creating APIs that the public finds useful is a very satisfying part of my job.”
+
+	
